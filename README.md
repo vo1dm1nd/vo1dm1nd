@@ -1,16 +1,24 @@
-## Hi there 👋
+### ⁍ KAWALE SWAPNIL
 
-<!--
-**vo1dm1nd/vo1dm1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+File  Action  Edit  View  Help
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(swapnil㉿GitHub)-[~]
+└─$ cat about-me
+
+⁍ Name : Swapnil Baburao Kawale
+⁍ ??   : Red Teamer (Gonna be - Wanna be)?!
+⁍ ??   : Final Year Student At MGM COLLEGE OF CS AND IT, NANDED  
+
+: Learning :
+==> Web Application Security
+==> Marlware Analysis
+
+
+: Working on :
+==> CyberSecurity Projects - Webapp Vulnerability Scanner, Port Scanner
+
+```
+
+---
